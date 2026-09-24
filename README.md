@@ -51,10 +51,9 @@ side projects, peer review not required:
 
 - [czi-viewer](https://github.com/joshwhiteley/czi-viewer): a CZI microscopy viewer that works over SSH.
 - [fsearch](https://github.com/joshwhiteley/fsearch): fast, Alfred-style file search for the macOS terminal.
-- [herdr-remote](https://github.com/joshwhiteley/herdr-remote): monitor and drive herdr agents from the menu bar, a phone or Telegram.
 
 ### acknowledgments
 
-the author thanks Bree Aldridge and the Aldridge lab. special thanks to **donut** (cat), who supervised much of this work from the keyboard and is not responsible for any typos.
+the author thanks **donut** (cat), who supervised much of this work from the keyboard and is not responsible for any typos.
 
 **competing interests:** cars and travel.
